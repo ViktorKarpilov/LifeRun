@@ -14,6 +14,9 @@ def main():
     except Exception as exception:
 
         logging.error(f'Exception: {exception}')
+
+
+    
         
 
 if __name__ == "__main__":
