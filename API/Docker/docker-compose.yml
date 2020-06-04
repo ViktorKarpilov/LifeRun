@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+    db:
+        build: ./Database
+        restart: always
+        ports: 
+            - 3307:3306
+
+    dotnet:
+        build: ../src/LunchMe.Host
+        ports: 
+            - 5001:80
+            - 5002:443

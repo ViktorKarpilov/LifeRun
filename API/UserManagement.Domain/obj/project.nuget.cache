@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "IG9ZYHcvpuWDYUDb1rkNtcoH/ZuJjuyu7RbaqGfdkKA/IVp1lFt200LXBNS/E/5j5HsgmZ2Mr9Nduj4uyJQVJg==",
+  "success": true,
+  "projectFilePath": "D:\\Study\\OOP\\LifeRunV2\\LifeRun\\API\\UserManagement.Domain\\UserManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wktor\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\wktor\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\wktor\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.5.1\\microsoft.identitymodel.jsonwebtokens.6.5.1.nupkg.sha512",
+    "C:\\Users\\wktor\\.nuget\\packages\\microsoft.identitymodel.logging\\6.5.1\\microsoft.identitymodel.logging.6.5.1.nupkg.sha512",
+    "C:\\Users\\wktor\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.5.1\\microsoft.identitymodel.tokens.6.5.1.nupkg.sha512",
+    "C:\\Users\\wktor\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\wktor\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0-preview.4.20251.6\\system.componentmodel.annotations.5.0.0-preview.4.20251.6.nupkg.sha512",
+    "C:\\Users\\wktor\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.5.1\\system.identitymodel.tokens.jwt.6.5.1.nupkg.sha512",
+    "C:\\Users\\wktor\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\wktor\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\wktor\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0-preview.4.20251.6\\system.runtime.compilerservices.unsafe.5.0.0-preview.4.20251.6.nupkg.sha512",
+    "C:\\Users\\wktor\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\wktor\\.nuget\\packages\\system.text.encodings.web\\5.0.0-preview.4.20251.6\\system.text.encodings.web.5.0.0-preview.4.20251.6.nupkg.sha512",
+    "C:\\Users\\wktor\\.nuget\\packages\\system.text.json\\5.0.0-preview.4.20251.6\\system.text.json.5.0.0-preview.4.20251.6.nupkg.sha512",
+    "C:\\Users\\wktor\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.API\bin\Debug\netcoreapp3.1\UserManagement.API.deps.json
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.API\bin\Debug\netcoreapp3.1\UserManagement.API.runtimeconfig.json
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.API\bin\Debug\netcoreapp3.1\UserManagement.API.runtimeconfig.dev.json
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.API\bin\Debug\netcoreapp3.1\UserManagement.API.dll
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.API\bin\Debug\netcoreapp3.1\UserManagement.API.pdb
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.API\bin\Debug\netcoreapp3.1\UserManagement.Application.dll
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.API\bin\Debug\netcoreapp3.1\UserManagement.Domain.dll
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.API\bin\Debug\netcoreapp3.1\UserManagement.Application.pdb
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.API\bin\Debug\netcoreapp3.1\UserManagement.Domain.pdb
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.API\obj\Debug\netcoreapp3.1\UserManagement.API.csprojAssemblyReference.cache
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.API\obj\Debug\netcoreapp3.1\UserManagement.API.AssemblyInfoInputs.cache
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.API\obj\Debug\netcoreapp3.1\UserManagement.API.AssemblyInfo.cs
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.API\obj\Debug\netcoreapp3.1\UserManagement.API.csproj.CoreCompileInputs.cache
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.API\obj\Debug\netcoreapp3.1\UserManagement.API.csproj.CopyComplete
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.API\obj\Debug\netcoreapp3.1\UserManagement.API.dll
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.API\obj\Debug\netcoreapp3.1\UserManagement.API.pdb
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.API\obj\Debug\netcoreapp3.1\UserManagement.API.genruntimeconfig.cache

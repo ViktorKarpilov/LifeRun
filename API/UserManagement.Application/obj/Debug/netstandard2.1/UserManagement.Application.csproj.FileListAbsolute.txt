@@ -1,0 +1,12 @@
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.Application\bin\Debug\netstandard2.1\UserManagement.Application.deps.json
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.Application\bin\Debug\netstandard2.1\UserManagement.Application.dll
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.Application\bin\Debug\netstandard2.1\UserManagement.Application.pdb
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.Application\bin\Debug\netstandard2.1\UserManagement.Domain.dll
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.Application\bin\Debug\netstandard2.1\UserManagement.Domain.pdb
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.Application\obj\Debug\netstandard2.1\UserManagement.Application.csprojAssemblyReference.cache
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.Application\obj\Debug\netstandard2.1\UserManagement.Application.AssemblyInfoInputs.cache
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.Application\obj\Debug\netstandard2.1\UserManagement.Application.AssemblyInfo.cs
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.Application\obj\Debug\netstandard2.1\UserManagement.Application.csproj.CoreCompileInputs.cache
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.Application\obj\Debug\netstandard2.1\UserManagement.Application.csproj.CopyComplete
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.Application\obj\Debug\netstandard2.1\UserManagement.Application.dll
+D:\Study\OOP\LifeRunV2\LifeRun\API\UserManagement.Application\obj\Debug\netstandard2.1\UserManagement.Application.pdb
